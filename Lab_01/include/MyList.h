@@ -3,6 +3,7 @@
 #include"MyNode.h"
 #include <initializer_list>
 
+
 class MyList
 {
     public:
@@ -23,3 +24,5 @@ class MyList
     MyNode * _tail;
     unsigned _size;
 };
+
+//i tyle
